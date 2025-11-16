@@ -473,9 +473,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Authors
 
 **NexLearno Team**
-- Lead Developer: Senior Developer (20+ years experience)
-- UI/UX Designer: [Your Name]
-- Content Creator: [Your Name]
+- Lead Developer: Experience Senior Developer 
+- Content Creator: Al Shaharia Hossen
 
 ---
 
@@ -497,7 +496,7 @@ Need help? Contact us:
 - 📧 Email: support@nexlearno.com
 - 💬 Discord: [Join our community](https://discord.gg/nexlearno)
 - 🐦 Twitter: [@nexlearno](https://twitter.com/nexlearno)
-- 📝 Issues: [GitHub Issues](https://github.com/yourusername/nexlearno/issues)
+- 📝 Issues: [GitHub Issues](https://github.com/alshahariahossen01/nexlearno/issues)
 
 ---
 
@@ -557,3 +556,4 @@ Thank you for using NexLearno! We're committed to providing the best online lear
   <br>
   <sub>© 2025 NexLearno. All rights reserved.</sub>
 </div>
+
