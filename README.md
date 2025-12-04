@@ -43,7 +43,7 @@
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/nexlearno.git
+git clone https://github.com/alshahariahossen01/nexlearno.git
 cd nexlearno
 ```
 
@@ -556,4 +556,5 @@ Thank you for using NexLearno! We're committed to providing the best online lear
   <br>
   <sub>© 2025 NexLearno. All rights reserved.</sub>
 </div>
+
 
